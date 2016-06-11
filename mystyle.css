@@ -1,0 +1,251 @@
+
+#header
+{
+        width:15%;
+        height:10%;
+	color: #F6f6f6;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:20px;
+	font-weight: bold;
+	display: inline-block;
+        position:absolute;
+        left:5%;
+        text-align:center;
+}
+#city
+{
+        width:50%;
+        height:10%;
+	color: #F6f6f6;
+        position:absolute;
+        left:45%;
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:14px;
+	display: inline-block;
+        margin-right:5%;
+        text-align:center;
+}
+#cities
+{
+
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:14px;
+width:100%;
+height:100%;
+text-align:center;
+}
+a:link
+{
+color:#f6f6f6;
+text-decoration:none;
+}
+
+a:visited
+{
+color:#f6f6f6;
+text-decoration:none;
+}
+
+a:hover
+{color:#4FAEFF;
+text-decoration:none;
+}
+a:active
+{ color:#4FAEFF;
+  text-decoration:none;
+}
+#compi
+{
+        width:100%;
+        position:absolute;
+        top:10%;
+	display: inline-block;
+        margin-right:5%;
+        padding-top:155px;
+}#c
+{
+        width:100%;
+	position:absolute;
+        top:50%;
+        display: inline-block;
+        margin-right:5%;
+        padding-top:155px;
+
+}
+#about
+{ position:absolute;
+  top:100%;
+  background:white;
+   width:100%;
+   height:55%;
+}
+.ab
+{ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:30px;
+    font-weight:bold;
+  text-align:center;
+        color:#1A1A1A;
+	display: inline-block;
+  position:relative;
+  top:10%;
+}
+#desc
+{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size:16px;
+ text-align:center;
+ line-height:150%;
+ color:#1A1A1A;
+    display:inline-block;
+position:relative;
+  margin-top:5%;
+ padding-left:20%;
+  padding-right:20%;
+}
+
+#events
+{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size:30px;
+ font-weight:bold;
+ color:#f6f6f6;
+position:absolute;
+width:100%;
+top:164%;
+text-align:center;
+}
+#evebody
+{
+position:absolute;
+width:100%;
+top:173%;
+height:48%;
+text-align:center;
+}
+.eveimages
+{ width:28%;
+  height:100%;
+
+  top:30px;
+}
+.bla
+{
+  width:100%;
+  height:31.25%;
+  background:white;
+}
+.blaabout
+  {     width: 100%;
+	color: #1A1A1A;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:24px;
+	font-weight: bold;
+	text-align: left;
+	display: inline-block;
+	margin-left:7%;
+        margin-top:6.25%;
+}
+.bladesc
+{
+	color: #1A1A1A;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:14px;
+	text-align: left;
+	display: inline-block;
+	padding-left:7%;
+        padding-right:7%;
+
+}
+#spon
+{ position:absolute;
+  top:235%;
+  background:white;
+   width:100%;
+   height:55%;
+}
+#logos
+{ width:60%;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ text-align:center;
+ color:#1A1A1A;
+  display:inline-block;
+ margin-left:20%;
+ margin-right:20%;
+  border:1px solid black;
+ margin-top:5%;
+ font-size:50px;
+ font-weight:bold;
+padding-top:5%;
+padding-bottom:5%;
+}
+#contact
+{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size:30px;
+ color:#f6f6f6;
+position:absolute;
+width:100%;
+top:299%;
+
+}
+#nos
+{       width:70%;
+        height:55%;
+        color: #F6F6F6;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size:16px;
+	display: inline-block;
+        margin-left:15%;
+        margin-right:15%;
+      margin-top:4.5%;
+
+}
+.name
+{
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size:16px;
+        display: inline-block;
+        padding-left:0px;
+line-height:150%;
+font-weight:bold;
+padding-left:2px;
+}
+.det
+{      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size:14px;
+        display: inline-block;line-height:150%;
+        padding-left:2px;
+}
+#address
+{position:absolute;
+  top:354%;
+  background:white;
+   width:30%;
+  height:20%;
+margin-left:35%;
+margin-right:35%;
+text-align:center;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:30px;
+    font-weight:bold;
+  text-align:center;
+        color:#1A1A1A;
+	display:inline-block;
+  line-height:150%;
+  z-index: 2;
+}
+#loc
+{      width:100%;
+       position:absolute;
+       top:371%;
+        text-align: center;
+	display: inline-block;
+  z-index:2;
+
+}
+ #googleMap
+ {  width:100%;
+    position:absolute;
+    top:362%;
+    display:inline-block;
+    z-index: 1;
+
+ }
+
