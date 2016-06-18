@@ -1,6 +1,7 @@
 
 #header
-{
+{ 
+	position:fixed;
         width:15%;
         height:10%;
 	color: #F6f6f6;
@@ -14,6 +15,7 @@
 }
 #city
 {
+	position:fixed;
         width:50%;
         height:10%;
 	color: #F6f6f6;
